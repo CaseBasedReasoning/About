@@ -3,17 +3,17 @@ See also the featured papers at [ai-cbr](http://www.ai-cbr.org/hall.html)
 
 ## Introductory Publications
 
-- Agnar Aamodt and Enric Plaza (1994): Case-Based Reasoning: Foundational Issues, Methodological Variations, and System Approaches. Artificial Intelligence Communications, IOS Press, Vol. 7:1, pp. 39 - 59. (HTML | PDF)
-- David B. Leake (1996): CBR in Context: The Present and Future. A chapter from Case-Based Reasoning: Experiences, Lesons, and Future Directions, David B. - Leake, editor (AAAI Press/MIT Press). (Abstract | HTML | PDF)
-- Hugh Osborne and Derek Bridge (1997): Similarity Metrics: A Formal Unification of Cardinal and Non-Cardinal Similarity Measures, in David B. Leake and - - Enric Plaza (eds.), Case-Based Reasoning Research and Development (Procs. of the 2nd International Conference on Case-Based Reasoning), Lecture Notes in Artificial Intelligence, Vol. 1266, Springer, pp.235-244. (DOI:10.1007/3-540-63233-6_495 | PDF)
+- Agnar Aamodt and Enric Plaza (1994): Case-Based Reasoning: Foundational Issues, Methodological Variations, and System Approaches. Artificial Intelligence Communications, IOS Press, Vol. 7:1, pp. 39 - 59. 
+- David B. Leake (1996): CBR in Context: The Present and Future. A chapter from Case-Based Reasoning: Experiences, Lesons, and Future Directions, David B. - Leake, editor (AAAI Press/MIT Press). 
+- Hugh Osborne and Derek Bridge (1997): Similarity Metrics: A Formal Unification of Cardinal and Non-Cardinal Similarity Measures, in David B. Leake and - - Enric Plaza (eds.), Case-Based Reasoning Research and Development (Procs. of the 2nd International Conference on Case-Based Reasoning), Lecture Notes in Artificial Intelligence, Vol. 1266, Springer, pp.235-244. 
 - Richter, Michael M. (1998): Introduction to: Case-Based Reasoning Technology, ed. M. Lenz, B. Bartsch-Spörl, H.-D. Burkhard, S. Wess, LNAI 1400, 1998, S. 1-16.
 - Richter, Michael M. (2000): Fallbasiertes Schließen. In: Handbuch der Künstlichen Intelligenz, (2000), ISBN 3-486-25049-3.
-- David W. Aha, Leonard A. Breslow, and Héctor Muñoz-Avila (2001): Conversational Case-Based Reasoning. Applied Intelligence. Kluwer Academic Publishers. (DOI:10.1023/A:1008346807097 | PDF)
+- David W. Aha, Leonard A. Breslow, and Héctor Muñoz-Avila (2001): Conversational Case-Based Reasoning. Applied Intelligence. Kluwer Academic Publishers. 
 - Richter, Michael M. (2003): Fallbasiertes Schließen: Vergangenheit, Gegenwart, Zukunft. In: Informatik Spektrum, Band 26 (3) (2003), S. 180-190.
-- Ramon López de Mántaras, David McSherry, Derek Bridge, David Leake, Barry Smyth, Susan Craw, Boi Faltings, Mary Lou Maher, Michael Cox, Kenneth Forbus, - Mark Keane, Agnar Aamodt, and Ian Watson (2005): Retrieval, reuse, revision, and retention in case-based reasoning. Knowledge Engineering Review, Vol. 20, Issue 03, September 2005. Cambridge University Press. pp 215-240. (DOI:10.1017/S0269888906000646 | PDF)
+- Ramon López de Mántaras, David McSherry, Derek Bridge, David Leake, Barry Smyth, Susan Craw, Boi Faltings, Mary Lou Maher, Michael Cox, Kenneth Forbus, - Mark Keane, Agnar Aamodt, and Ian Watson (2005): Retrieval, reuse, revision, and retention in case-based reasoning. Knowledge Engineering Review, Vol. 20, Issue 03, September 2005. Cambridge University Press. pp 215-240. 
 - Richter, Michael M. (2007): Similarity. In: Case-Based Reasoning for Signals and Imaging, ed. Petra Perner, Springer Verlag 2007, pp.25-90.
-- Hector Munoz-Avila, Michael T. Cox (2008) Case-Based Plan Adaptation: An Analysis and Review. IEEE Intelligent Systems. IEEE inc. (PDF)
-- Enric Plaza (2008): Semantics and Experience in the Future Web. Advances in Case-Based Reasoning: 9th European Conference, ECCBR 2008. Proceedings. K. D. Althoff, R. Bergmann, M. Minor, A. Hanft (eds.), Lecture Notes in Artificial Intelligence, Vol. 5239, pp. 44-58. Springer. (DOI:10.1007/978-3-540-85502-6_3 | PDF)
+- Hector Munoz-Avila, Michael T. Cox (2008) Case-Based Plan Adaptation: An Analysis and Review. IEEE Intelligent Systems. IEEE inc. 
+- Enric Plaza (2008): Semantics and Experience in the Future Web. Advances in Case-Based Reasoning: 9th European Conference, ECCBR 2008. Proceedings. K. D. Althoff, R. Bergmann, M. Minor, A. Hanft (eds.), Lecture Notes in Artificial Intelligence, Vol. 5239, pp. 44-58. Springer. 
 
 ## Journal Special Issues
 
