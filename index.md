@@ -7,8 +7,16 @@ Excerpted from Aamodt, A., & Plaza, E. (1994). Case-based reasoning: Foundationa
 Content
 
 [Applications](./applications.md)
-[Books](./books.md)
-[Applications](./applications.md)
-[Applications](./applications.md)
 
+[Books](./books.md)
+
+[Case Bases](./casebases.md)
+
+[Readings](./readings.md)
+
+[Topics](./topics.md)
+
+[Course Material](./course_material.md)
+
+[Industry](./industry.md)
 
