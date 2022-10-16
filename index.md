@@ -20,3 +20,6 @@ Excerpted from Aamodt, A., & Plaza, E. (1994). Case-based reasoning: Foundationa
 
 [Industry](./industry.md)
 
+[Information Sources](./resources.md)
+
+[Meetings](./meetings.md)
