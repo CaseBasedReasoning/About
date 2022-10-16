@@ -4,11 +4,9 @@ Case-based reasoning is a problem solving paradigm that in many respects is fund
 
 Excerpted from Aamodt, A., & Plaza, E. (1994). Case-based reasoning: Foundational issues, methodological variations, and system approaches. Artificial Intelligence Communications, 7(1), 39-59.
 
-## Applications
+Content
 
-### Academic Applications
-
-### Industrial Applications
+[Applications](./applications.md)
 
 ## Books
 
