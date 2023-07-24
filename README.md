@@ -5,10 +5,15 @@ Figuring out some ideas on how to get the CBR community more closely together / 
 Maybe something like a "CBR community mindmap"? Pointing out different hubs including their research focus, such as
 
 NTNU / K. Bach:  Healthcare, SelfBACK project / myCBR-REST API development
+
 Indiana / D. Leake: Improving efficiency of CBR / Case-base Maintenance 
+
 Trier, DFKI / R. Bergmann: Process-oriented CBR / PoCBR development
+
 Madrid / B. Diaz-Agudo: Explainability / iSee Project
+
 RGU / S. Massie: Explainability / iSee Project / CloodCBR development
+
 Hildesheim / P. Reuss: Maintenance, Explainability / myCBR development
 ... ?
 
